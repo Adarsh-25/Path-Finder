@@ -29,5 +29,7 @@ Now you can
 5. You can also place walls if you want.
 6. Press SPACE BAR for the algo to work and find you the shortest path.
 7. Press C to reset and go as many times you want .:)
+![alt tag]
+![alt tag]
 ## Adarsh Chaudhary
 ## 18UCS047
